@@ -1,0 +1,33 @@
+_repo: Roster-of-Company-I-24th-Regiment-Massachusetts-Volunteers_36673
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Amory, Charles Bean
+    alias: Amory, Charles B.
+    birthdate: 1841
+    gutenberg_agent_id: '38413'
+    url: http://www.gutenberg.org/2009/agents/38413
+  - agent_name: DeLane, Nelson H.
+    gutenberg_agent_id: '38415'
+    url: http://www.gutenberg.org/2009/agents/38415
+  - agent_name: Armstrong, James
+    gutenberg_agent_id: '38414'
+    url: http://www.gutenberg.org/2009/agents/38414
+description: ''
+gutenberg_issued: '2011-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36673'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States. Army. Massachusetts Infantry Regiment, 24th (1861-1866)'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+title: Roster of Company I, 24th Regiment, Massachusetts Volunteers
+url: http://www.gutenberg.org/ebooks/36673
